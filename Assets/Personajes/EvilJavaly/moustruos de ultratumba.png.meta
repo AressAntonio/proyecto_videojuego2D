@@ -1,0 +1,1344 @@
+fileFormatVersion: 2
+guid: b1a7fc1dbd1131040920e652e70ea3cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2002366335533299073
+    second: moustruos de ultratumba_0
+  - first:
+      213: -5210472357064921763
+    second: moustruos de ultratumba_1
+  - first:
+      213: 9152679833014311602
+    second: moustruos de ultratumba_2
+  - first:
+      213: 5589226265797679083
+    second: moustruos de ultratumba_3
+  - first:
+      213: 9043109763576266255
+    second: moustruos de ultratumba_4
+  - first:
+      213: 7788826897521108232
+    second: moustruos de ultratumba_5
+  - first:
+      213: 1234866990808559746
+    second: moustruos de ultratumba_6
+  - first:
+      213: 6328459714041385756
+    second: moustruos de ultratumba_7
+  - first:
+      213: -8566919441592218435
+    second: moustruos de ultratumba_8
+  - first:
+      213: -7998140785823652547
+    second: moustruos de ultratumba_9
+  - first:
+      213: -1984526702617314316
+    second: moustruos de ultratumba_10
+  - first:
+      213: 6770851675888828770
+    second: moustruos de ultratumba_11
+  - first:
+      213: 5173277317058209490
+    second: moustruos de ultratumba_12
+  - first:
+      213: 970003625592741207
+    second: moustruos de ultratumba_13
+  - first:
+      213: -8890750821941052207
+    second: moustruos de ultratumba_14
+  - first:
+      213: -4940369278667000590
+    second: moustruos de ultratumba_15
+  - first:
+      213: -5251383885370218708
+    second: moustruos de ultratumba_16
+  - first:
+      213: -6851443962880946712
+    second: moustruos de ultratumba_17
+  - first:
+      213: 4836232351816436335
+    second: moustruos de ultratumba_18
+  - first:
+      213: -7159790636742044461
+    second: moustruos de ultratumba_19
+  - first:
+      213: 7009098450717929387
+    second: moustruos de ultratumba_20
+  - first:
+      213: 8252720033169302514
+    second: moustruos de ultratumba_21
+  - first:
+      213: 4262471367555792617
+    second: moustruos de ultratumba_22
+  - first:
+      213: -2193219779254915766
+    second: moustruos de ultratumba_23
+  - first:
+      213: 2259644006419877174
+    second: moustruos de ultratumba_24
+  - first:
+      213: 6862269093592794864
+    second: moustruos de ultratumba_25
+  - first:
+      213: 2930841940446798637
+    second: moustruos de ultratumba_26
+  - first:
+      213: 1082445221909514622
+    second: moustruos de ultratumba_27
+  - first:
+      213: 2094328263738214859
+    second: moustruos de ultratumba_28
+  - first:
+      213: -4468193250470313020
+    second: moustruos de ultratumba_29
+  - first:
+      213: -5526022290480505586
+    second: moustruos de ultratumba_30
+  - first:
+      213: 1401642008732480503
+    second: moustruos de ultratumba_31
+  - first:
+      213: 130661509241860295
+    second: moustruos de ultratumba_32
+  - first:
+      213: 2059003341343631334
+    second: moustruos de ultratumba_33
+  - first:
+      213: -6030985941428710743
+    second: moustruos de ultratumba_34
+  - first:
+      213: 1387940493194987105
+    second: moustruos de ultratumba_35
+  - first:
+      213: -3313758285846895593
+    second: moustruos de ultratumba_36
+  - first:
+      213: 3690573555949763999
+    second: moustruos de ultratumba_37
+  - first:
+      213: 2465717030777316812
+    second: moustruos de ultratumba_38
+  - first:
+      213: 3733046082499919202
+    second: moustruos de ultratumba_39
+  - first:
+      213: 843117417700863470
+    second: moustruos de ultratumba_40
+  - first:
+      213: 1224715896488896498
+    second: moustruos de ultratumba_41
+  - first:
+      213: -3598656607701762995
+    second: moustruos de ultratumba_42
+  - first:
+      213: -6142542679581227807
+    second: moustruos de ultratumba_43
+  - first:
+      213: 1215673877848551483
+    second: moustruos de ultratumba_44
+  - first:
+      213: -2867993635595879889
+    second: moustruos de ultratumba_45
+  - first:
+      213: 3995340975402246554
+    second: moustruos de ultratumba_46
+  - first:
+      213: -2919746824805874461
+    second: moustruos de ultratumba_47
+  - first:
+      213: 6917649798639546540
+    second: moustruos de ultratumba_48
+  - first:
+      213: 2873984022536299303
+    second: moustruos de ultratumba_49
+  - first:
+      213: -6279818742512896739
+    second: moustruos de ultratumba_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moustruos de ultratumba_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 314
+        width: 119
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586ff272f19a11946a2665eb3fef7b08
+      internalID: -2002366335533299073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 335
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa8673f809cbd4489d3bf48722f4466
+      internalID: -5210472357064921763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 335
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ba0320a50172a4b8d3a999d6b85c08
+      internalID: 9152679833014311602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 335
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f196adfdce9f07b469c3da38462178f2
+      internalID: 5589226265797679083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 337
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f7cc82182916841ac01918a1f13750
+      internalID: 9043109763576266255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 357
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c51132bfa4f8444f9ab504288e468b2
+      internalID: 7788826897521108232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 354
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ff346e6237f944bb3206ac8becde7b
+      internalID: 1234866990808559746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 357
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdc3ccca6701c647b890fe4c52db794
+      internalID: 6328459714041385756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_8
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 357
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90172b13a9759d046b1968d06576c1c6
+      internalID: -8566919441592218435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_9
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 357
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47b83e24d8b41d4abfb67a4a4c843a8
+      internalID: -7998140785823652547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 264
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4d328081aaf6847a0b89d5d0b8b219
+      internalID: -1984526702617314316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 264
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f527ea512bc24e48b6a11b625b404cd
+      internalID: 6770851675888828770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 274
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd953c4f9a385d748a997182cbbf9129
+      internalID: 5173277317058209490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 271
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71e68b4ccbdcbf44a1716a9e5b90255
+      internalID: 970003625592741207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 271
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9550de9d2bbf8d84f8e1034784fd0151
+      internalID: -8890750821941052207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 314
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacb55a939f8a6c4fa9984ffc91c2c62
+      internalID: -4940369278667000590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 313
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d2cd3f11993f64a975c4574de7f7ce
+      internalID: -5251383885370218708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 308
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c949ac36b47d8204ba441ccdd517a128
+      internalID: -6851443962880946712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_18
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 311
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd23e805b2345d4984646fbfb576177
+      internalID: 4836232351816436335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c669f299b74624fa881de3e4b7f9a1
+      internalID: -7159790636742044461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 207
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8778f3082621e4d960a5f86e08e283
+      internalID: 7009098450717929387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 197
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7128c15e435813f4e9edc0ad40e20b36
+      internalID: 8252720033169302514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 189
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f22938016dc3e458b240495e1173b6
+      internalID: 4262471367555792617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 207
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0693172be8f04394e9f1478fa000ec3f
+      internalID: -2193219779254915766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_24
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 238
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bdc7631bbb4324a9010cade6d4df9a
+      internalID: 2259644006419877174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_25
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 241
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ea43e57d73d1649a1c4e553dfc0387
+      internalID: 6862269093592794864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_26
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 244
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6b46beac59149419aef1e744c2a39a
+      internalID: 2930841940446798637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 228
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651319518e9054440934edbdd75742f2
+      internalID: 1082445221909514622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 64
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099e55a793c240f4cb137c97f65382a3
+      internalID: 2094328263738214859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3086bed4062e5847a0e1e465ee9333a
+      internalID: -4468193250470313020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_30
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 95
+        width: 121
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2844adb6c1e21cd4886899b50775fb50
+      internalID: -5526022290480505586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c4031698473a42aab8fbeab3d8ee7
+      internalID: 1401642008732480503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 97
+        width: 63
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcc465c898c75443a6fdc577ce92b58
+      internalID: 130661509241860295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_33
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 154
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bc439256826fc44a1872e0e8801d84
+      internalID: 2059003341343631334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 151
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bc6bf92b8828c43ab938af08b294d3
+      internalID: -6030985941428710743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 147
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0e91f6e03f1b340abaf7b88a1f5031
+      internalID: 1387940493194987105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_36
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5acd7383541eb46a8662b8eb23bcc4
+      internalID: -3313758285846895593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_37
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 144
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd44bfa06cf9ae4681652adb977508a
+      internalID: 3690573555949763999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bae9a8756761b4a8d4d80843c41e7b
+      internalID: 2465717030777316812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf182f6c649718448b9ee62e178f249a
+      internalID: 3733046082499919202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 60
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0af607561ed324f92ddb3f53bb089a
+      internalID: 843117417700863470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 79
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b4319eda189c245b9b4d4e10c6d287
+      internalID: 1224715896488896498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 79
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5940c2858ebd08346b9f4e88afd718da
+      internalID: -3598656607701762995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 79
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3ef6a9734241447ae2719992558b0b
+      internalID: -6142542679581227807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_44
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 97
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ef118120266764584cb17cdce3524b
+      internalID: 1215673877848551483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_45
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 91
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b112fd7a1f9d94ebf5889069ffd0d7
+      internalID: -2867993635595879889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 91
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f097100d4d8cb418063c49e33a919f
+      internalID: 3995340975402246554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 88
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3ae13350568a04285a5ec69aec8d23
+      internalID: -2919746824805874461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_48
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 50
+        width: 128
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf6ba6c82e3b4a4691725f4dc20a151
+      internalID: 6917649798639546540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 50
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cd725406710034fb5fb5532a7be2b9
+      internalID: 2873984022536299303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moustruos de ultratumba_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 6
+        width: 136
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae29010a8ec9204ca06d4eec767e707
+      internalID: -6279818742512896739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 72b64d2aea30dfa45a2a75c672c737d1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
