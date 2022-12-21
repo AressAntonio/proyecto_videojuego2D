@@ -16,7 +16,7 @@
 # IMPORTANTE
 ---El videojuego cuenta con varios bugs y es un poco corto.
 ---El repo cuenta con el proyecto del videojuego completo, solo se necesita abrir en el entorno de desarrollo de unity 
-de preferencia en la version 2020.2.2f1, ya que no le he realizd testing en versiones posteriores.
+de preferencia en la version 2020.2.2f1, ya que no le he realizado testing en versiones posteriores.
 
 
  
