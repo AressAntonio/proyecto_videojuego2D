@@ -18,6 +18,10 @@
 ---El repo cuenta con el proyecto del videojuego completo, solo se necesita abrir en el entorno de desarrollo de unity 
 de preferencia en la version 2020.2.2f1, ya que no le he realizado testing en versiones posteriores.
 
+# SI DESEAS SOLU JUGAR
+--Accede a <a href="https://github.com/AressAntonio/Ejecutable-AG-versionFinal-"> este enlace</a> para poder
+  dirigirte al repositorio donde se encuentra el ejecutable del juego que podras descargar.
+
 
  
 ![nivel2](https://user-images.githubusercontent.com/99376135/208790606-586128e6-9b8a-421c-8aa0-bdf99aa3f47d.png)
